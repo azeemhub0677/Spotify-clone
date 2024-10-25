@@ -16,7 +16,7 @@
 </ul>
 
 <h2>Demo</h2>
-<p>View the live project <a href="#">here</a>.</p> <!-- Replace # with the live demo link if available -->
+<p>View the live project <a href="https://azeemhub0677.github.io/spotify-clone/">here</a>.</p> <!-- Replace # with the live demo link if available -->
 
 <p>Feel free to explore, contribute, or provide feedback! 😊</p>
 
